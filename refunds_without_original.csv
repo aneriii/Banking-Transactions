@@ -1,0 +1,2 @@
+bank_record_id,refund_transaction_id,original_transaction_id,amount,settled_at,reason
+BR-025,RFND-9001,TXN-NOT-FOUND,-19.99,2026-03-31,Refund settlement references an original transaction that does not exist in the platform table

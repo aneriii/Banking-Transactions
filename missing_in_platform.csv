@@ -1,0 +1,3 @@
+bank_record_id,transaction_id,settled_at,amount,settlement_type,original_transaction_id,reason
+BR-023,TXN-9998,2026-03-31,44.44,PAYMENT,,Bank settlement has no matching platform transaction
+BR-025,RFND-9001,2026-03-31,-19.99,REFUND,TXN-NOT-FOUND,Bank settlement has no matching platform transaction
