@@ -1,0 +1,4 @@
+scope,reference,platform_amount,bank_amount,difference,reason
+transaction,TXN-1013,75.23,75.32,0.09,Single transaction amount differs by more than one cent
+transaction,TXN-1024,15.15,10.15,-5.00,Partial bank settlement: bank settled less than the platform transaction amount
+batch,BATCH-ROUNDING,60.02,60.00,-0.02,Rounding difference appears only after summing the batch

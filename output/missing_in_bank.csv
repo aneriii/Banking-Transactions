@@ -1,0 +1,3 @@
+platform_row_id,transaction_id,paid_at,amount,reason
+PT-017,TXN-1016,2026-03-20,210.40,Platform transaction has no matching bank settlement
+PT-024,TXN-1023,2026-03-28,72.72,Platform transaction has no matching bank settlement
